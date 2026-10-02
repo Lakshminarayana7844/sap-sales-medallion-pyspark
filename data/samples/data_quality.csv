@@ -1,0 +1,6 @@
+check,rows
+invalid_quantity_rows_rejected,10
+missing_region_rows_fixed,8
+silver_rows,490
+raw_rows,506
+duplicate_rows_removed,6
